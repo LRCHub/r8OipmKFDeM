@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ドント・ルック・バック・イン・アンガー",
+  "base_artist": "Oasis",
+  "createdAt": "2025-12-16T07:03:30.822841Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Don't Look Back In Anger",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/pl_01_Don't_Look_Back_In_Anger_Oasis.txt"
+    }
+  ]
+}
